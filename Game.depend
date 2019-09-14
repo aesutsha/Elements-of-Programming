@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1480059763 source:f:\std\courses\1100 elements of programming\project\game\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<conio.h>
+	<windows.h>
+
+1481904174 source:f:\std\courses\1st sem\1100 elements of programming\project\game\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
